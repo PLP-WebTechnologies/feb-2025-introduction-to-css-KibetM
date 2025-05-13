@@ -1,0 +1,36 @@
+#main-header {
+    background-color: #004d99;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content {
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid #ddd;
+    font-family: 'Georgia', serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+p {
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+/* Style an image */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #e0e0e0;
+    font-family: 'Courier New', Courier, monospace;
+}
